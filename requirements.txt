@@ -1,18 +1,9 @@
-# Core
-streamlit>=1.25.0
-
-# Computer vision & ISP
-numpy>=1.23.0
-opencv-python-headless>=4.9.0.80
-Pillow>=9.0.0
-
-# Deep learning
-torch>=2.0.0
-torchvision>=0.15.0
-
-# YOLOv8
-ultralytics>=8.0.20
-
-# Visualization & data
-matplotlib>=3.6.0
-pandas>=2.0.0
+numpy
+opencv-python-headless
+streamlit
+torch
+torchvision
+ultralytics
+matplotlib
+pandas
+Pillow
